@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**tarekbadry30/tarekbadry30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Tarek Badry** (@tarekbadry30), a passionate software developer focused on building robust web applications and backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+- 🧑‍💻 Backend & Fullstack developer specializing in PHP, Laravel, MySQL, and REST APIs
+- 🚀 Dedicated to delivering high-quality solutions with great user experience and maintainable code
+- 🛠 Contributor to open-source projects and custom solutions for clinics and businesses
+
+---
+
+## 📦 Featured Repositories
+- Medical clinic management systems
+- Invoicing and payment integration projects
+- Third-party platform integrations
+
+---
+
+## 🌱 Currently Learning
+- Performance optimization in Laravel & PHP
+- Modern frontend development with Vue.js & TailwindCSS
+- Automation and DevOps practices
+
+---
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/tarek-badry-25441614a/)
+- Email: tarekbadry30@gmail.com
+
+---
+
+> **Thanks for visiting! Feel free to connect, collaborate, or check out my projects.**
