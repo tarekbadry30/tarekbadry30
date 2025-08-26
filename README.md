@@ -4,7 +4,7 @@
 
 📍 6th of October City, Giza, Egypt  
 📧 [tarekbadry30@gmail.com](mailto:tarekbadry30@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/tarek-badry-25441614a) | [GitHub](https://github.com/tarekbadry30) | [Portfolio](https://ninehealth.net)
+🔗 [LinkedIn](https://linkedin.com/in/tarek-badry-25441614a) | [GitHub](https://github.com/tarekbadry30)
 
 ---
 
